@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/day5"
+		},
+		{
+			"path": "../../../Desktop/day7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "script"
+	}
+}
